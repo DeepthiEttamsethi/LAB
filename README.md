@@ -4,7 +4,7 @@
 
 The Employee Performance Management System is a console-based Java application that facilitates the tracking and management of employee performance evaluations within an organization. It allows administrators to add employee details, record evaluation data, update evaluation records, and view employee performance information.
 
-## [Features ](https://github.com/markdown-it/markdown-it-sub) 
+## [Features ](https://github.com/markdown-it/markdown-it-sub) l
 
 
 ### User Authentication
